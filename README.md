@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=7c6e6e&height=120&text=rodzlen's&animation=twinkling&fontColor=8cae42&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=7c6e6e&height=120&text=rodzlen's&animation=twinkling&fontColor=8cae42&fontSize=60" pointer-events : none;/>
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> rodzlen's github </h2>  
